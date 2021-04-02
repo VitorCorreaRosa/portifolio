@@ -64,6 +64,10 @@
     position: absolute;
     margin-top: 3em;
     text-align: left;
+    width: 100%;
+}
+#menu-lateral div {
+    padding: 1em;
 }
 #secao3 {
     z-index: 4;
